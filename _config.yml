@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Pramod Pal's Homepage"
+title                    : "Pramod Pal Homepage"
 title_separator          : "-"
 name                     : &name "Pramod Pal"
 description              : &description "personal description"
